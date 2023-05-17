@@ -16,3 +16,4 @@
 
 ## My Image
 A photo of the city of Toronto at night.
+![My Image](./Toronto.jpeg)
