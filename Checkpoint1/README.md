@@ -2,4 +2,4 @@
 - **STUDENT’S NAME: Maxwell Ayi-Bonte**
 - **STUDENT'S NUMBER: 108455197** 
 - **GITHUB USER_ID: 87**
-- **TEACHER’S NAME: Atoosa Nasiri, Scott Apted, Sebastian Maurice**
+- **TEACHER’S NAME: Atoosa Nasiri**
