@@ -19,4 +19,4 @@ A photo of the city of Toronto at night.
 ![My Images](./Toronto.jpeg)
 
 A photo of the collaborators.
-![my Images](./Collaborators.
+![My Images](./Collaborators.png)
