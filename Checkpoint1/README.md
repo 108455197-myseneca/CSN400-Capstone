@@ -43,3 +43,11 @@ echo -e "\nRemoving \t backslash \t characters\n"
   "hobbies": ["sports", "video games"],
 }
 ```
+
+### Sample table
+| Cities          | Countries            |
+| --------------- | -------------------- |
+| Toronto         | Canada               |
+| Chicago         | United States        |
+| Manchester       | England              |
+| Shinjuku City   | Japan                |
