@@ -25,11 +25,11 @@ A photo of the collaborators.
 `echo "Hi, My name is Maxwell"`
 
 ### Multi line code snippet (preferably bash script)
-'''bash
+```bash
 #!/bin/bash
 
 echo "Printing text with newline"
 echo -n "Printing text without newline"
 echo -e "\nRemoving \t backslash \t characters\n"
 
-'''
+```
