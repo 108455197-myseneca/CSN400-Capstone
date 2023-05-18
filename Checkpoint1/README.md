@@ -24,4 +24,14 @@ A photo of the collaborators.
 ### Single line code snippet
 `echo "Hi, My name is Maxwell"`
 
-Multi line code snippet (preferably bash script
+### Multi line code snippet (preferably bash script)
+'''bash
+#!/bin/bash
+
+# Add two numeric value
+((sum=25+35))
+
+#Print the result
+
+'''
+echo $sum
