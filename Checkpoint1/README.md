@@ -49,5 +49,8 @@ echo -e "\nRemoving \t backslash \t characters\n"
 | --------------- | -------------------- |
 | Toronto         | Canada               |
 | Chicago         | United States        |
-| Manchester       | England              |
+| Manchester      | England              |
 | Shinjuku City   | Japan                |
+
+### Sample hyperlink
+[Maxwell GitHub](https://github.com/108455197-myseneca/).
