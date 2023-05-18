@@ -35,9 +35,11 @@ echo -e "\nRemoving \t backslash \t characters\n"
 ```
 
 ### Sample `.json` objects
+```
 {
   "name": "Maxwell",
   "age": 21,
   "city": "Toronto",
   "hobbies": ["sports", "video games"],
 }
+```
