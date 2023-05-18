@@ -28,7 +28,7 @@ A photo of the collaborators.
 '''bash
 #!/bin/bash
 
-# Add two numeric value
+#Add two numeric value
 ((sum=25+35))
 
 #Print the result
