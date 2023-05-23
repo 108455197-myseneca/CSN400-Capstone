@@ -53,3 +53,39 @@ Date:   Mon May 22 22:00:41 2023 -0400
 ### What's the difference between `git log` and `git status`
 
 Committed snapshots are displayed by the `git log` command. You may list, filter, and search the project history for certain modifications. `Git log` only functions on the committed history, but `git status` allows you to check the working directory and the staging area.
+
+### PART C - Creating & Merging Branches
+
+```
+maxwe@DESKTOP-2ISBIFD MINGW64 ~/Documents/CSN400-2234/CSN400-Capstone/Checkpoint2 (main)
+$ git log -n 5
+commit 3fd96b846faff36cf06fedc43a7376ce07512250 (HEAD -> main, origin/feat-emojis, feat-emojis)
+Author: 108455197-myseneca <mayi-bonte@myseneca.ca>
+Date:   Tue May 23 00:40:56 2023 -0400
+
+    updates Checkpoint2
+
+commit f08bd3b22b0ae0c93b0b02949511b741a5130476
+Author: 108455197-myseneca <mayi-bonte@myseneca.ca>
+Date:   Tue May 23 00:35:07 2023 -0400
+
+    updates README.md
+
+commit eb7c844211bf0b825cf4aaf9080ad1bca1ce1ea5
+Author: 108455197-myseneca <mayi-bonte@myseneca.ca>
+Date:   Tue May 23 00:29:38 2023 -0400
+
+    updates README.md
+
+commit 9131841e6f9c5c0d6bdb14b4982b99bb3dcda111 (origin/main, origin/HEAD)
+Author: 108455197-myseneca <mayi-bonte@myseneca.ca>
+Date:   Tue May 23 00:17:26 2023 -0400
+
+    updates README.md
+
+commit 1fa1f0e32440f866c2783bc85950774db0922e51
+Author: 108455197-myseneca <122736778+108455197-myseneca@users.noreply.github.com>
+Date:   Mon May 22 22:37:07 2023 -0400
+
+    Delete git_status_untracked.txt
+```
