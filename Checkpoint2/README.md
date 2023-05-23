@@ -102,7 +102,7 @@ A new software `release` is created using the `release` branch. It is frequently
 Critical problems or issues are swiftly fixed using the `hotfix` branch. They diverge from the primary branch. They are employed to separate the fix from the current development and ensure that it does not.
 
 3. What are the best practices in working with release branches?
-- The release branch should always be set to 'public' 
-- Branches from the 'develop' branch should use'semantic versioning' 
-- Afterward, merges to the 'develop' and'main' branches 
+- The release branch should always be set to `public` 
+- Branches from the `develop` branch should use'semantic versioning' 
+- Afterward, merges to the `develop` and `main` branches 
 - It must only be created with the Lead's approval
