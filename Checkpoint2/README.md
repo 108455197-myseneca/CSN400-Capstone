@@ -89,3 +89,5 @@ Date:   Mon May 22 22:37:07 2023 -0400
 
     Delete git_status_untracked.txt
 ```
+
+### PART D - Git Branching Strategy Review Question
