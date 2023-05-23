@@ -91,3 +91,18 @@ Date:   Mon May 22 22:37:07 2023 -0400
 ```
 
 ### PART D - Git Branching Strategy Review Question
+
+1. What are the differences between develop branch and main branch?
+The `develop` branch acts as an integration branch for features, while the `main` branch maintains the official release history. Adding a version number to every commit in the `main` branch is also practical. This branch will include the entire project history, however the `main` branch will only include a condensed version.
+
+2. What are the three supporting branches? Briefly describe the function of each of these supporting branches.
+`Feature` Branches, `Release` Branches, and `Hotfix` Branches are the three supporting branches.
+The `Feature` Branch is used to create new features or modify existing ones. It enables programmers to work on a particular feature without interfering with the `main` development process.
+A new software `release` is created using the `release` branch. It is frequently developed from the `develop` branch and given a particular name or version number.
+Critical problems or issues are swiftly fixed using the `hotfix` branch. They diverge from the primary branch. They are employed to separate the fix from the current development and ensure that it does not.
+
+3. What are the best practices in working with release branches?
+- The release branch should always be set to 'public' 
+- Branches from the 'develop' branch should use'semantic versioning' 
+- Afterward, merges to the 'develop' and'main' branches 
+- It must only be created with the Lead's approval
