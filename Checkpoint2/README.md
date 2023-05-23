@@ -15,38 +15,37 @@
 ### PART A - Adding Files - Local Repo Workflow
 
 ```
-maxwe@DESKTOP-2ISBIFD MINGW64 ~/CSN400-Capstone (main)
+maxwe@DESKTOP-2ISBIFD MINGW64 ~/Documents/CSN400-2234/CSN400-Capstone/Checkpoint2 (main)
 $ git log -n 5
-commit 07aecf18870539f9258a773f622d8d5d11e2ea9d (HEAD -> main, origin/main, origin/HEAD)
+commit 9131841e6f9c5c0d6bdb14b4982b99bb3dcda111 (HEAD -> main, origin/main, origin/HEAD)
+Author: 108455197-myseneca <mayi-bonte@myseneca.ca>
+Date:   Tue May 23 00:17:26 2023 -0400
+
+    updates README.md
+
+commit 1fa1f0e32440f866c2783bc85950774db0922e51
 Author: 108455197-myseneca <122736778+108455197-myseneca@users.noreply.github.com>
-Date:   Sun May 21 23:08:47 2023 -0400
+Date:   Mon May 22 22:37:07 2023 -0400
 
-    Update README.md
+    Delete git_status_untracked.txt
 
-commit 1ad449849edc077c6ec9b37c93c03de8acf982a4
+commit 6e2bf2b9b28f115696ee4762b254e14140c259d3
 Author: 108455197-myseneca <122736778+108455197-myseneca@users.noreply.github.com>
-Date:   Sun May 21 23:01:04 2023 -0400
+Date:   Mon May 22 22:37:00 2023 -0400
 
-    Create README.md
+    Delete git_status_uncommitted.txt
 
-commit 5c56e0de1968ffb5b45319a922446bc018139939
+commit 9a3eef02b881e4836667be4bc8fab12fdb0c9055
 Author: 108455197-myseneca <122736778+108455197-myseneca@users.noreply.github.com>
-Date:   Wed May 17 21:46:42 2023 -0400
+Date:   Mon May 22 22:36:52 2023 -0400
 
-    Update README.md
+    Delete git_status_committed.txt
 
-commit 7f37a5f1e6372a662e2215df40183ed8f8994c74
+commit 8b6d2a14d4b7409456936d46c4431dc17afe88ca
 Author: 108455197-myseneca <122736778+108455197-myseneca@users.noreply.github.com>
-Date:   Wed May 17 21:40:20 2023 -0400
+Date:   Mon May 22 22:00:41 2023 -0400
 
-    Update README.md
-
-commit ceaef29aa07b3feca35dcd487c0c169ca4c22e74
-Author: 108455197-myseneca <122736778+108455197-myseneca@users.noreply.github.com>
-Date:   Wed May 17 21:27:43 2023 -0400
-
-    Update README.md
-
+    Create git_status_untracked.txt
 ```
 
 ### PART B - Inspecting Local Repo with `git status` amd `git log`
