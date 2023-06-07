@@ -64,3 +64,4 @@
 
 #### Step 3: Explore the container
 
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20C.3.JPG">
