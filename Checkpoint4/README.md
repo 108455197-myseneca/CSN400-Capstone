@@ -16,22 +16,24 @@
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.1.JPG">
 
-### Step 1: Set up the guide
+#### Step 1: Set up the guide
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.2.JPG">
 
-### Step 2: View containers on Docker Desktop
+#### Step 2: View containers on Docker Desktop
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.3.JPG">
 
-### Step 3: View the frontend
+#### Step 3: View the frontend
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.4.JPG">
 
-### Step 4: Explore your container
+#### Step 4: Explore your container
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.5.JPG">
 
-### Step 5: Stop your container
+#### Step 5: Stop your container
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.6.JPG">
+
+### Part B - Run Your own container
