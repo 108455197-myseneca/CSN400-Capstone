@@ -53,5 +53,14 @@
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20B.4.JPG">
 
+### Part C - Run Docker Hub Image
+#### Step 1: Search for the image
 
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20C.1.JPG">
+
+#### Step 2: Run the image
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20C.2.JPG">
+
+#### Step 3: Explore the container
 
