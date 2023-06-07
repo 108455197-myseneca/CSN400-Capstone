@@ -37,3 +37,19 @@
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.6.JPG">
 
 ### Part B - Run Your own container
+#### Step 1: Get the sample application
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20B.1.JPG">
+
+#### Step 2: Explore the Dockerfile
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20B.2.JPG">
+
+#### Step 3: Build your first image
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20B.3.JPG">
+
+#### Step 4: Build your first image
+
+
+
