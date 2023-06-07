@@ -49,7 +49,9 @@
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20B.3.JPG">
 
-#### Step 4: Build your first image
+#### Step 4: Run your container and Verify that your container is running
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20B.4.JPG">
 
 
 
