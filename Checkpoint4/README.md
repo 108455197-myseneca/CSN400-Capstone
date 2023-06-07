@@ -65,3 +65,24 @@
 #### Step 3: Explore the container
 
 <img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20C.3.JPG">
+
+### Part D - Publish your images
+#### Step 1: Get an image
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20D.1.JPG">
+
+#### Step 2: Sign in to Docker
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20D.2.JPG">
+
+#### Step 3: Rename your image
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20D.3.JPG">
+
+#### Step 4: Push your image to Docker Hub
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20D.4.JPG">
+
+#### Step 5: Verify the image is on Docker Hub
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20D.5.JPG">
