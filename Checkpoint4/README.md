@@ -14,4 +14,4 @@
 
 ### Part A - Working with Docker Desktop
 
-<https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.1.JPG>
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint4/CP4-PART%20A.1.JPG">
