@@ -68,3 +68,5 @@ The intricacy of the modifications, the speed of the "host machine," and the siz
 What is the error message you get when you try to run the app container?
 
 `docker run -dp 3000:3000 getting-started`, which attempts an error, has been executed. The port 3000 is reportedly already being used by another `Container` on the host system, according to the error notice.
+
+### Part B - Share the application
