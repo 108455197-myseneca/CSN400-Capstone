@@ -59,3 +59,12 @@ The following `Containers` have been developed and are mapped to various `Ports,
 
 - The second `Container` is mapped from the host machine's `Port 3000` to the `Container's` `Port 3000.`
 
+#### Question 7 ####
+How long did it take to create the image after you updated the code? It is still shorter than the first time you did it, why?
+
+The intricacy of the modifications, the speed of the "host machine," and the size of the picture will all affect how quickly the image is created once the code has been updated. However, the time it takes to generate an image will vary when using previously built layers, but it won't take too long.
+
+#### Question 8 ####
+What is the error message you get when you try to run the app container?
+
+`docker run -dp 3000:3000 getting-started`, which attempts an error, has been executed. The port 3000 is reportedly already being used by another `Container` on the host system, according to the error notice.
