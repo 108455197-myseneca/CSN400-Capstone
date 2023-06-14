@@ -70,3 +70,7 @@ What is the error message you get when you try to run the app container?
 `docker run -dp 3000:3000 getting-started`, which attempts an error, has been executed. The port 3000 is reportedly already being used by another `Container` on the host system, according to the error notice.
 
 ### Part B - Share the application
+
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint5/dockerhub%20repo.JPG">
+
+### Part C - Persist the DB
