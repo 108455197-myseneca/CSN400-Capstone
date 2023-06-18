@@ -11,3 +11,5 @@
 2. [Part B - Working in Azure CLI Bash](#header2)
 3. [Part C - Network Review Questions](#header3)
 4. [Part D - Creating Virtual Machines using Azure CLI](#header4)
+
+### Part A - Creating Network Resources using Azure CLI
