@@ -27,13 +27,13 @@ echo
 echo "---------------------------------------------------"
 echo "Networking - Virtual Networks"
 echo
-echo "Student_vnet_name: $Student-954059"
-echo "Router_vnet_name: $Router-87"
-echo "Server_vnet_name: $Server-87"
+echo "Student_vnet_name: $Student_vnet_name"
+echo "Router_vnet_name: $Router_vnet_name"
+echo "Server_vnet_name: $Server_vnet_name"
 
-echo "Student_vnet_address: $10.3.46.0/24"
-echo "Router_vnet_address: $192.168.87.0/24"
-echo "Server_vnet_address: $172.17.87.0/24"
+echo "Student_vnet_address: $Student_vnet_address"
+echo "Router_vnet_address: $Router_vnet_address"
+echo "Server_vnet_address: $Server_vnet_address"
 echo 
 
 echo "---------------------------------------------------"
