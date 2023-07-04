@@ -80,3 +80,17 @@ In order to pass parameters, a `subnet name`, `resource group name`, and `vnet n
 **6. `route_details.json` File**
 
 [route_details.json](bash-scripts/route_details.json)
+
+### Part C - Network Review Questions
+
+1. What is Azure Virtual Network (VNET)?
+- The Azure Virtual Network (VNet) lets you set up self-contained virtual networks in Azure. It allows you to regulate the flow of traffic within the network and dictate connectivity.
+
+2. In the context of Hybrid Cloud architecture. How on-prem computers can access resources inside Azure virtual network?
+- Azure Virtual Networks (VNets) can be accessed from on-premises computers using a variety of methods in a hybrid cloud architecture: Azure VPN Gateway, Azure ExpressRoute, Azure Virtual WAN, Azure Private Link, and Azure Firewall or Network Virtual Appliances
+
+3. What are the most important benefits of Azure Virtual Networks?
+- You can run your applications in an isolated environment
+- By default, subnets in VNets can access the public internet
+- Resources can easily be used to direct traffic
+- The network has a high level of security
