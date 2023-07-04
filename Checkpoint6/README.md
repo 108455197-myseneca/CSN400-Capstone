@@ -73,3 +73,10 @@ In order to pass parameters, a `subnet name`, `resource group name`, and `vnet n
 
 **2. `student_vnet.json` File**
 [student_vnet.json](bash-scripts/student_vnet.json)
+
+**5. `route_list.tbl` File**
+[route_list.tbl](bash-scripts/route_list.tbl.txt)
+
+**6. `route_details.json` File**
+
+
