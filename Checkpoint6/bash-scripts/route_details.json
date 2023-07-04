@@ -1,0 +1,25 @@
+{
+  "addressPrefix": "192.168.87.0/24",
+  "etag": "W/\"36c4553f-65d0-4613-930a-803247fd0091\"",
+  "hasBgpOverride": false,
+  "id": "/subscriptions/d4a883dd-79d7-45fd-ad66-297181dd5dc4/resourceGroups/Student-RG-954059/providers/Microsoft.Network/routeTables/RT-87/routes/Server-87",
+  "name": "Server-87",
+  "nextHopIpAddress": "192.168.87.36",
+  "nextHopType": "VirtualAppliance",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "Student-RG-954059",
+  "type": "Microsoft.Network/routeTables/routes"
+}
+
+{
+  "addressPrefix": "192.168.87.0/30",
+  "etag": "W/\"ee8f9f2d-241f-4d66-83d7-d32ba60b6656\"",
+  "hasBgpOverride": false,
+  "id": "/subscriptions/d4a883dd-79d7-45fd-ad66-297181dd5dc4/resourceGroups/Student-RG-954059/providers/Microsoft.Network/routeTables/RT-87/routes/Router-87",
+  "name": "Router-87",
+  "nextHopIpAddress": "192.168.87.36",
+  "nextHopType": "VirtualAppliance",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "Student-RG-954059",
+  "type": "Microsoft.Network/routeTables/routes"
+}
