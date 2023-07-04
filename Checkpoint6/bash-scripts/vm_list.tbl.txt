@@ -1,0 +1,4 @@
+Name    ResourceGroup      Location    Zones
+------  -----------------  ----------  -------
+WC-87   STUDENT-RG-954059  canadaeast
+WS-87   STUDENT-RG-954059  canadaeast
