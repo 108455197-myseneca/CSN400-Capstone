@@ -79,4 +79,4 @@ In order to pass parameters, a `subnet name`, `resource group name`, and `vnet n
 
 **6. `route_details.json` File**
 
-
+[route_details.json](bash-scripts/route_details.json)
