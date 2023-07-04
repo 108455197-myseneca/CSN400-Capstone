@@ -90,7 +90,22 @@ In order to pass parameters, a `subnet name`, `resource group name`, and `vnet n
 - Azure Virtual Networks (VNets) can be accessed from on-premises computers using a variety of methods in a hybrid cloud architecture: Azure VPN Gateway, Azure ExpressRoute, Azure Virtual WAN, Azure Private Link, and Azure Firewall or Network Virtual Appliances
 
 3. What are the most important benefits of Azure Virtual Networks?
-- You can run your applications in an isolated environment
-- By default, subnets in VNets can access the public internet
-- Resources can easily be used to direct traffic
-- The network has a high level of security
+- You can run your applications in an isolated environment.
+- By default, subnets in VNets can access the public internet.
+- Resources can easily be used to direct traffic.
+- The network has a high level of security.
+
+4. What is the difference between Network Security Group (NSG) and Route-Tables?
+- The route table, like a networking map, sends traffic from one site to another using the next hop. This creates a "route," but no traffic is filtered. The Azure network security group is used in an Azure virtual network to filter network traffic to and from Azure resources.
+
+5. What is the difference between NSG and Firewalls?
+- An Azure Firewall monitors all traffic, but an NSG is more focused and deployed to certain subnets and/or network interfaces. Both firewalls and NSG allow for the application of rules based on IP addresses, port numbers, networks, and subnets.
+
+6. What is a hob-and-spoc network topology and how be deployed in Azure Cloud?
+- Multiple spoke networks are linked to a central hub by use of Azure's "hub-and-spoke network topology." Hub-to-hub communication between spoke networks enables centralised control, enhanced security, and effective network communication. By connecting the hub VNet and each spoke VNet, this may be done via Azure Virtual Network peering.
+
+7. In working with Azure VNETs, do you need o to define gateways for Azure to route traffic between subnets?
+- In order for Azure to route traffic between subnets, you do not need to establish gateways. Azure doesn't build default routes for subnet address ranges even if a virtual network has subnets and each subnet has a distinct address range.
+
+8. When do you need to configure and use Virtual Network Gateways?
+- When it comes to setting up site-to-site VPN connectivity with on-premises networks, VNET-to-VNET connectivity, and ExpressRoute connectivity for dedicated connections between your network and Azure, "Virtual Network Gateways" are setup and used.
