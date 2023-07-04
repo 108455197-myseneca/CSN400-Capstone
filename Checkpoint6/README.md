@@ -109,3 +109,13 @@ In order to pass parameters, a `subnet name`, `resource group name`, and `vnet n
 
 8. When do you need to configure and use Virtual Network Gateways?
 - When it comes to setting up site-to-site VPN connectivity with on-premises networks, VNET-to-VNET connectivity, and ExpressRoute connectivity for dedicated connections between your network and Azure, "Virtual Network Gateways" are setup and used.
+
+### Part D - Creating Virtual Machines using Azure CLI
+
+**1. `vm_list.tbl` File**
+
+[vm_list.tbl](bash-scripts/vm_list.tbl.txt)
+
+**5. `az vm list --out table --out table`
+
+The command has no output
