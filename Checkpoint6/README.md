@@ -116,6 +116,6 @@ In order to pass parameters, a `subnet name`, `resource group name`, and `vnet n
 
 [vm_list.tbl](bash-scripts/vm_list.tbl.txt)
 
-**5. `az vm list --out table --out table`
+**5. `az vm list --out table --out table` File**
 
 The command has no output
