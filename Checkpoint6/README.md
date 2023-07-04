@@ -67,3 +67,9 @@ az network vnet subnet create --name SN1  \
 In order to pass parameters, a `subnet name`, `resource group name`, and `vnet name` should be provided.
 
 ### Part B - Working in Azure CLI Bash
+
+**1. `vnet_list.json` File**
+[vnet_list.json](bash-scripts/vnet_list.json)
+
+**2. `student_vnet.json` File**
+[student_vnet.json](bash-scripts/student_vnet.json)
