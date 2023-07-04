@@ -24,6 +24,17 @@ Student_vnet_address="10.3.46.0/24"
 Client_Subnet_name="Virtual-Desktop-Client"
 Client_Subnet_address="10.3.46.0/24"
 ```
+**`network_config.sh` File**
+
+[network_config.sh](bash-scripts/network_config.sh)
+
+**`vnet_create.sh` File**
+
+[vnet_create.sh](bash-scripts/vnet_create.sh)
+
+**`route_table_create.sh` File**
+
+[route_table_create.sh](bash-scripts/route_table_create.sh)
 
 **1. In network_config_test.sh what does `if [[ ! $(az group list -o tsv --query "[?name=='$RG_NAME']") ]]` do? Explain your answer.**
 
