@@ -65,3 +65,5 @@ az network vnet subnet create --name SN1  \
 --address-prefix 192.168.87.0/24
 ```
 In order to pass parameters, a `subnet name`, `resource group name`, and `vnet name` should be provided.
+
+### Part B - Working in Azure CLI Bash
