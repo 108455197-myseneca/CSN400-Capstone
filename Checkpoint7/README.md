@@ -108,3 +108,20 @@ Install `iptables-services` from `sudo yum install iptables-services`
 
 start `iptables-services` by using these commands `sudo systemctl enable iptables` and `sudo systemctl start iptables`.
 
+### Part D - Creating & Configuring VM Images - Using Portal
+
+**1. Run a command in CLI that lists all your Custom Images. Hint: `az image list ...`.**
+
+**2. Delete your VMs after your work is completed. Run a command in CLI that lists all your VMs. Hint: `az vm list ...`.**
+
+There is no output since I deleted the VMs.
+
+```
+az vm list --output table
+
+```
+
+**3. Recreate all VMs from your images, and establish basic connectivity. How long the entire process took? How can you do this more efficiently?**
+
+With their basic connectivity established, all VMs were recreated from images in the shortest possible time. To do this more efficiently, we can use Azure Resource Manager (ARM) templates, Azure PowerShell, or the Azure CLI to automate the 
+provisioning process.
