@@ -91,3 +91,20 @@ az network nic ip-config show --resource-group Student-RG-954059 --nic-name lr-8
 ```
 
 ### Part C - Basic Connectivity - VM Configuration
+
+**1. In configuring your Linux VMs, for the step "Remove the `firewalld` service", which command will you be using?**
+
+`sudo systemctl stop firewalld`
+
+`sudo systemctl disable firewalld`
+
+**2. In configuring your Linux VMs, what command do you use to check the status of `iptabels`?**
+
+`sudo iptables -L`
+
+**3. How can you make iptables service start automatically after reboot on CenOS/RHEL8?**
+
+Install `iptables-services` from `sudo yum install iptables-services`
+
+start `iptables-services` by using these commands `sudo systemctl enable iptables` and `sudo systemctl start iptables`.
+
