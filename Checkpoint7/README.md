@@ -130,7 +130,7 @@ provisioning process.
 
 | No. | Scope | Chart Type | VIEW Type |  Date Range | Group By | Granularity| Example |
 |-|-|-|-|-|-|-|-|
-|1|Student-RG-954059| Column (Stacked) | DailyCosts | Last 7 Days | Resource | Daily | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-1.png" alt="Daily Cost Barchart" style="float: left; margin-right: 10px;" /> |
+|1|Student-RG-954059| Column (Stacked) | DailyCosts | Last 7 Days | Resource | Daily | <img src="https://github.com/108455197-myseneca/CSN400-Capstone/blob/main/Checkpoint7/Screenshots/Screenshot1.JPG" alt="Daily Cost Barchart" style="float: left; margin-right: 10px;" /> |
 |2|Student-RG-954059| Column (Stacked) | DailyCosts | Last 7 Days | Service | Daily | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-2.png" alt="Daily Cost Service-Barchart.jpg" style="float: left; margin-right: 10px;" /> |
 |3|Student-RG-954059| Area| AccumulatedCosts | Last 7 Days | Resource | Accumulated | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-3.png" alt="Accumulated Resource Barchart" style="float: left; margin-right: 10px;" /> |
 |4|Student-RG-954059| Pie Chart | NA | Last Month | Service Name | NA | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-4.png" alt="Service Name Piechart" style="float: left; margin-right: 10px;" /> |
