@@ -68,3 +68,26 @@ WC-87_OsDisk_1_fb1c6e4b0ca9465d8a7db8a4a6c315a2  STUDENT-RG-954059  canadaeast  
 WS-87_OsDisk_1_bfcc0540d8c34affa2673dbcd0e08679  STUDENT-RG-954059  canadaeast           StandardSSD_LRS  Windows   127       Succeeded
 
 ```
+
+### Part B - Enable IP_Forwarding - Using Portal
+
+**1. Check the status of ip-forwarding using the command `az network nic ip-config show` with output format as `json`. Include **only** the command **not output** including the `--quey` you used in your submission.**
+
+```
+az network nic ip-config show --resource-group Student-RG-954059 --nic-name lr-87 --name ipconfig1 --query "enableIPForwarding" --output json
+
+```
+**2. When your output format is `json`, which property shows the status of the ip-forwarding attribute? Embed only the property that shows the status of ip-forwarding.**
+
+```
+az network nic ip-config show --resource-group Student-RG-954059 --nic-name lr-87 --name ipconfig1 --query "enableIPForwarding" --output json
+
+```
+**3. Check if the IP forwarding in NIC is enabled using Azure bash. 👉 Hint: `az network nic show -g <rg-name> -n <nic-name> --query "enableIpForwarding"`**
+
+```
+az network nic ip-config show --resource-group Student-RG-954059 --nic-name lr-87 --name ipconfig1 --query "enableIPForwarding" --output json
+
+```
+
+### Part C - Basic Connectivity - VM Configuration
