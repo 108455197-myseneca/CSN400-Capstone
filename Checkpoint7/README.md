@@ -125,3 +125,15 @@ az vm list --output table
 
 With their basic connectivity established, all VMs were recreated from images in the shortest possible time. To do this more efficiently, we can use Azure Resource Manager (ARM) templates, Azure PowerShell, or the Azure CLI to automate the 
 provisioning process.
+
+### Part E - Azure Cost Analysis Charts
+
+| No. | Scope | Chart Type | VIEW Type |  Date Range | Group By | Granularity| Example |
+|-|-|-|-|-|-|-|-|
+|1|Student-RG-954059| Column (Stacked) | DailyCosts | Last 7 Days | Resource | Daily | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-1.png" alt="Daily Cost Barchart" style="float: left; margin-right: 10px;" /> |
+|2|Student-RG-954059| Column (Stacked) | DailyCosts | Last 7 Days | Service | Daily | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-2.png" alt="Daily Cost Service-Barchart.jpg" style="float: left; margin-right: 10px;" /> |
+|3|Student-RG-954059| Area| AccumulatedCosts | Last 7 Days | Resource | Accumulated | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-3.png" alt="Accumulated Resource Barchart" style="float: left; margin-right: 10px;" /> |
+|4|Student-RG-954059| Pie Chart | NA | Last Month | Service Name | NA | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-4.png" alt="Service Name Piechart" style="float: left; margin-right: 10px;" /> |
+|5|Student-RG-954059| Pie Chart | NA | Last Month | Service Family | NA | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-5.png" alt="Service Family Piechart" style="float: left; margin-right: 10px;" /> |
+|6|Student-RG-954059| Pie Chart | NA | Last Month | Product | NA | <img src="https://github.com/148634215-myseneca/CSN400-Capstone/blob/4b51612cc983bff63a1ec4cea8522ea24e586750/Checkpoint7/Screenshots/Part%20E%20SS-6.png" alt="Product Piechart" style="float: left; margin-right: 10px;" /> |
+
