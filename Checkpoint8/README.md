@@ -179,7 +179,11 @@ LX-87.CSN4002234.com
 
 ```
 
-az vm show --resource-group Student-RG-954059 --name LR-87 
+az vm show --resource-group Student-RG-954059 --name LR-87
+
+
+
+https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint8/images/Custom%20Dahboard.png
 
 LR-87.CSN4002234.com
 
@@ -187,3 +191,4 @@ LR-87.CSN4002234.com
 
 ### Part C - Azure Cost Analysis Charts
 
+<img src="https://raw.githubusercontent.com/108455197-myseneca/CSN400-Capstone/main/Checkpoint8/images/Custom%20Dahboard.png" alt="Daily Cost Barchart" style="float: left; margin-right: 10px;" /> |
