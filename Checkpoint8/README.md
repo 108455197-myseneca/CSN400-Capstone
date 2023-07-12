@@ -141,3 +141,37 @@ mayi-bonte@DESKTOP-2ISBIFD:/mnt/c/Users/maxwe/Documents/CSN400-2234/bash-scripts
 mayi-bonte@DESKTOP-2ISBIFD:/mnt/c/Users/maxwe/Documents/CSN400-2234/bash-scripts$
 
 ```
+
+### Part B - Basic Connectivity - Linux VMs Firewall Setting
+
+Run commands that show the status of the Apache server and MariDB server in your LS-xx. Embed the output as a bash snippet.
+
+```
+sudo systemctl status apache2
+
+```
+
+```
+sudo systemctl status mariadb
+
+```
+
+Run a command in LR-xx that show iptables chains. What is the default setting? How could you improve these settings to be less vulnerable to attacks?
+
+```
+
+az vm show --resource-group Student-RG-954059 --name LX-87 
+
+LX-87.CSN4002234.com
+
+```
+
+```
+
+az vm show --resource-group Student-RG-954059 --name LR-87 
+
+LR-87.CSN4002234.com
+
+```
+
+
