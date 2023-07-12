@@ -69,6 +69,8 @@ WS-87_OsDisk_1_2fdbc93eb5d94950ae71d9c249a26c1d  STUDENT-RG-954059  canadaeast  
 
 ```
 
+Run a command in CLI that lists all your Custom Images. Change the output format to table format and embed the answer in your submission.
+
 ```
 
 az vm image list -o table
@@ -120,6 +122,7 @@ x64             WindowsServer                 MicrosoftWindowsServer  2008-R2-SP
    latest
 
 ```
+Delete your VMs using the proper script after your work is completed. Run a command in CLI that lists all your VMs.
 
 ```
 
@@ -155,6 +158,14 @@ sudo systemctl status apache2
 sudo systemctl status mariadb
 
 ```
+
+Run a command in LR-xx that show iptables chains. What is the default setting? How could you improve these settings to be less vulnerable to attacks?
+
+```
+iptables -L -n -v
+
+```
+- iptables default setting is typically to accept all incoming, outgoing, and forwarded traffic. The default policy is ACCEPT for all three chains, which are INPUT, OUTPUT, and FORWARD.
 
 Run a command in LR-xx that show iptables chains. What is the default setting? How could you improve these settings to be less vulnerable to attacks?
 
